@@ -1,0 +1,4 @@
+interface:
+  display_name: "CYUT Research Download"
+  short_description: "搜尋、驗證、下載並分析中外學術文獻"
+  default_prompt: "使用 $cyut-research-download 依我的關鍵字搜尋並合法下載可取得的學術論文；未指定篇數時最多下載 10 篇，優先從朝陽電子資料庫入口確認資源。"
